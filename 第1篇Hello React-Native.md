@@ -9,6 +9,7 @@
 	(3)安装node.js:https://nodejs.org/download/
 	(4)建议安装watchman，终端命令：brew install watchman
 	(5)安装flow：brew install flow
+	(6)安装npm sudo npm install -g react-native-cli (如果连不上则切换国内镜像 sudo npm install -g cnpm --registry=https://registry.npm.taobao.org再运行 cnpm install -g react-native-cli)
 	ok，按照以上步骤，你应该已经配置好了环境。
 
 ###三、Hello, React-Native
