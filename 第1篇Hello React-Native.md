@@ -15,10 +15,9 @@
 ###三、Hello, React-Native
 	现在我们需要创建一个React-Native的项目，因此可以按照下面的步骤：
 	打开终端，开始React-Native开发的旅程吧。
-	(1)安装命令行工具：sudo npm install -g react-native-cli
-	(2)创建一个空项目：react-native init HelloWorld
-	(3)找到创建的HelloWorld项目,双击HelloWorld.xcodeproj即可在xcode中打开项目。xcodeproj是xcode的项目文件。
-	(4)在xcode中，使用快捷键cmd + R即可启动项目。基本的Xcode功能可以熟悉，比如模拟器的选择等。
+	(1)创建一个空项目：react-native init HelloWorld
+	(2)找到创建的HelloWorld项目,双击HelloWorld.xcodeproj即可在xcode中打开项目。xcodeproj是xcode的项目文件。
+	(3)在xcode中，使用快捷键cmd + R即可启动项目。基本的Xcode功能可以熟悉，比如模拟器的选择等。
 	启动完成后，你会看到React-Packger和iOS模拟器，具体的效果如下，说明你创建项目成功了。
 ![Hello World](pic/1_1.png)
 
